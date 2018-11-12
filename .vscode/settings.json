@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "C:\\Users\\Eric\\Anaconda3\\envs\\Qiskit\\python.exe"
+}
